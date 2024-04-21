@@ -27,6 +27,4 @@ def hello():
 
 
 if __name__ == '__main__':
-    APP.run(host='0.0.0.0', port=8080)  
-    
-
+    APP.run(host='0.0.0.0', port=8080)
